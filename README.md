@@ -83,3 +83,13 @@ es impresionante como pude aprender sobre estos temas tratados en la materia pen
 aprendi como podemos trabajar creando variables con opreaciones matematicas y texto,
 los diferentes tiposa de lenguajes que tambien podemos trabajar, mi meta es poner en practica cada uno de estos 
 conceptos y herramientas para avanzar cada dia en mi  proyecto de vida.
+
+
+
+# ACTIVIDAD DE APRENDIZAJE 02
+https://github.com/elkin0114/pagina_personal_elkin/commit/f08ce7833a4d5c6c26b28fb3511b1b0cae048bf6
+
+
+# ACTIVIDAD DE APRENDIZAJE 03
+
+ejercicio #1 
