@@ -83,3 +83,8 @@ es impresionante como pude aprender sobre estos temas tratados en la materia pen
 aprendi como podemos trabajar creando variables con opreaciones matematicas y texto,
 los diferentes tiposa de lenguajes que tambien podemos trabajar, mi meta es poner en practica cada uno de estos 
 conceptos y herramientas para avanzar cada dia en mi  proyecto de vida.
+
+
+#ACTIVIDAD DE APRENDIZAJE 03
+
+Ejercicio 1: Versión Funcional (Modularidad).py
